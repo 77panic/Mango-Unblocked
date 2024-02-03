@@ -26,6 +26,9 @@ nav a:hover {
 .ghold {
   overflow: hidden;
   position: relative;
+  margin: auto;
+  width: 85%;
+  padding: 5px;
 }
 .gbutton {
   float: left;

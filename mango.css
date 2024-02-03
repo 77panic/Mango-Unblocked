@@ -1,19 +1,27 @@
+/*
+  #ffdcb4
+  #ffc37d
+  #ffb17b
+  #ffa466
+  #ff8518
+*/
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #f4f4f4;
+  background-color: #ffdcb4;
 }
 
 nav {
-  /*background-color: #ffffff;*/
+  background-color: rgba(255,195,125,0.5);
   overflow: hidden;
 }
 nav a{
   float: left;
   display: block;
-  color: #000000;
+  color: #ff8518;
+  text-shadow: 2px 2px #f2f2f2;
   text-align: center;
   padding: 17px 16px;
   text-decoration: none;
@@ -26,7 +34,11 @@ nav a:hover {
 .ghold {
   overflow: hidden;
   position: relative;
+  margin: auto;
+  width: 85%;
+  padding: 5px;
 }
+
 .gbutton {
   float: left;
   text-align: center;
@@ -42,11 +54,25 @@ section {
   padding: 20px;
 }
 footer {
-  background-color: #333;
-  color: #fff;
+  background-color: rgba(255,195,125,0.5);
+  color: #ff8518;
+  text-shadow: 2px 2px #f2f2f2;
   text-align: center;
   padding: 10px;
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+
+section p {
+  color: #ff8518;
+  text-shadow: 2px 2px #f2f2f2;
+}
+section h1 {
+  color: #ff8518;
+  text-shadow: 2px 2px #f2f2f2;
+}
+div h2 {
+  color: #ff8518;
+  text-shadow: 2px 2px #f2f2f2;
 }
