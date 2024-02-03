@@ -57,10 +57,10 @@
         })();
         setTimeout(function () {
           document.getElementById("available").style.display = "block";
-        }, 5000);
+        }, 0);
         window.remAvailable = setTimeout(function () {
           document.getElementById("available").remove();
-        }, 18000);
+        }, 0);
         document.getElementById("available_hide").addEventListener("click", function () {
           clearTimeout(window.remAvailable);
           document.getElementById("available").remove();
@@ -69,4 +69,10 @@
       });
     </script>
   </head>
+  <body style="margin: 0px; width: 100vw; height: 100vh;" id="game_frame">
+    <div id="available" style="display: none;">
+      <p id="available_hide">&nbsp;X&nbsp;</p>
+      </p>
+    </div>
+  </body>
 </html>
