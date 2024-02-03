@@ -7,7 +7,7 @@
 
 ## Usage
 
-If you intend on starting your own game website and plan to use mine, or just wanna mess around; Please read the [License](https://github.com/77panic/77panic.github.io/blob/main/LICENSE)
+If you intend on starting your own game website and plan to use mine, or just wanna mess around; Please read the [License](https://github.com/77panic/77panic.github.io/blob/main/LICENSE).
 
 [![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/77panic/77panic.github.io) 
 
