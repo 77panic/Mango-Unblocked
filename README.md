@@ -1,5 +1,4 @@
 <h1 align="center">MANGO UNBLOCKED</h1>
-<h2 align="center">77panic.github.io</h2>
 
 <div align="center">
   Basic Unblocked Games Site
