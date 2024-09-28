@@ -10,10 +10,10 @@
   </div>
 </div>
 
-## Usage
+## Usage | IGNORE
 
 If you intend on starting your own game website and plan to use mine or just wanna mess around. Please read the [License](https://github.com/77panic/77panic.github.io/blob/main/LICENSE).
 
-## Licensing
+## Licensing | IGNORE
 
 This project is licensed under the [Apache-2.0 License](http://www.apache.org/licenses/).
