@@ -4,6 +4,9 @@
   I've lost intrest in this project feel free to look through the files.
   <br>
   Basic Unblocked Games Site
+
+  <img src="https://img.shields.io/github/languages/code-size/77panic/Mango-Unblocked" alt="GitHub code size in bytes"/>
+  <img src="https://img.shields.io/endpoint?url=https://ghloc.vercel.app/api/77panic/Mango-Unblocked/badge?filter=.java$&label=lines%20of%20code&color=blue" alt="GitHub lines of code"/>
 </div>
 
 ## Usage
