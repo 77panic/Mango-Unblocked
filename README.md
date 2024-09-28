@@ -10,9 +10,9 @@
   </div>
 </div>
 
-## Usage | IGNORE
+## Usage
 
-Suppose you intend on starting your game website and plan to use mine or wanna mess around. Please read the [License](https://github.com/77panic/77panic.github.io/blob/main/LICENSE).
+if your starting your game website and plan to use mine or wanna mess around, feel free to look at it
 
 ## Licensing | IGNORE
 
